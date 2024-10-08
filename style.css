@@ -90,8 +90,5 @@ footer{
     font-size: 25px;
 }
 .ad{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin: 20px;
+    display : none;
 }
